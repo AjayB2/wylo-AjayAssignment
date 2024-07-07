@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.685"
+  },
+  "devDependencies": {
+    "@types/node": "^16.6.2",
+    "@types/react-redux": "^7.1.18"
+  }
+}

@@ -1,0 +1,7 @@
+2024-07-07T11:34:14.900Z Warning: Cannot open browser.
+2024-07-07T11:34:14.901Z     at Object.warn (/root/.nvm/versions/node/v14.18.2/pnpm-global/5/node_modules/.pnpm/@oclif+core@2.16.0/node_modules/@oclif/core/lib/errors/index.js:49:15)
+2024-07-07T11:34:14.901Z     at showUrl (/root/.nvm/versions/node/v14.18.2/pnpm-global/5/node_modules/.pnpm/@heroku-cli+command@10.1.0/node_modules/@heroku-cli/command/lib/login.js:137:27)
+2024-07-07T11:34:14.901Z     at ChildProcess.<anonymous> (/root/.nvm/versions/node/v14.18.2/pnpm-global/5/node_modules/.pnpm/@heroku-cli+command@10.1.0/node_modules/@heroku-cli/command/lib/login.js:150:17)
+2024-07-07T11:34:14.901Z     at ChildProcess.emit (events.js:400:28)
+2024-07-07T11:34:14.901Z     at maybeClose (internal/child_process.js:1058:16)
+2024-07-07T11:34:14.901Z     at Process.ChildProcess._handle.onexit (internal/child_process.js:293:5)
